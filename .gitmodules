@@ -1,0 +1,3 @@
+[submodule "sub-submodule-01"]
+	path = sub-submodule-01
+	url = https://github.com/Rvkt/sub-submodule-01.git
